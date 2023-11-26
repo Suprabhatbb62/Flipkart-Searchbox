@@ -1,0 +1,23 @@
+svg{
+    width: 20px;
+    height: 20px;
+}
+button{
+    background-color: transparent;
+    border: 0px solid transparent;
+    width: 50px;
+    height: 40px;
+    cursor: pointer;
+}
+#input{
+    all: unset;  /* during click auto border not comes */
+    width: 90%;
+}
+form{
+    display: flex;
+    border-radius: 5px;
+    background-color: rgb(224, 235, 247);
+    height: 40px;
+    width: 30%;
+    margin: 100px auto;
+}
